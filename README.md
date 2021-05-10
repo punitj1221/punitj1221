@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br><br><br>
 
 [![Punit's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitj1221)](https://github.com/punitj1221/github-readme-stats)
 
