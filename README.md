@@ -25,7 +25,7 @@
 
 <br><br>
 
-## Stats
+### Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punitj1221)](https://github.com/punitj1221/github-readme-stats)
 
