@@ -27,7 +27,7 @@
 
 ### Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punitj1221)](https://github.com/punitj1221/github-readme-stats)
+
 
 <!--
 **punitj1221/punitj1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punitj1221)](https://github.com/punitj1221/github-readme-stats)
 [![Punit's GitHub stats](https://github-readme-stats.vercel.app/api?username=punitj1221)](https://github.com/punitj1221/github-readme-stats)
 
