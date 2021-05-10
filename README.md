@@ -1,7 +1,7 @@
 
 # Welcome to Punit's Github Profile
 
-### React Developer | Web Developer | Blockchain Entusiast 
+### React Developer | Web Developer | Blockchain Enthusiast 
 
 ### Languages & Tools 
 
